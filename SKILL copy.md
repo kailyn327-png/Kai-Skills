@@ -199,12 +199,3 @@ If you're not sure where the photos are, fetch the homepage first and look for n
 3. What should the download folder be named? (e.g., client name or project name)
 4. Any specific types of photos you want? (e.g., kitchens only, before/after only, exterior only)
 5. Are there photos you want to exclude? (e.g., headshots, staff photos, blog images)
-
----
-
-## Related Skills
-
-- **kai-brand-guide**: For brand identity standards when selecting which images to use
-- **social-content**: For repurposing downloaded client photos into social media posts
-- **copywriting**: For writing captions or descriptions to accompany downloaded project photos
-- **page-cro**: For optimizing pages that will feature these downloaded images
